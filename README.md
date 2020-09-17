@@ -4,6 +4,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwonchanmi%2Fkwonchanmi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech&Algorithm%20blog-black?style=flat-square&logo=android&link=https://kwoncorin.tistory.com/)](https://kwoncorin.tistory.com/)
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kkccmm1202)](https://solved.ac/kkccmm1202)
+
 <img width='50%' src='https://pruvi007-apis.herokuapp.com/CF/jatoehallaeng' />
 
 <!--
